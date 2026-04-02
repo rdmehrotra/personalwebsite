@@ -3,6 +3,7 @@
 title: Rohan Mehrotra
 url: "https://rdmehrotra.github.io"
 baseurl: "/personalwebsite"
+theme: jekyll-theme-norlin
 #-------------------------------
 # Build settings
 markdown: kramdown
