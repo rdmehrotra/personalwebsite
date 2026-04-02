@@ -1,9 +1,8 @@
 #-------------------------------
 # General Site Settings
-baseurl: "" # The subpath of your site, e.g. /blog
-url: "" # The base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/path-optimization-algorithm"
+title: Rohan Mehrotra
 url: "https://rdmehrotra.github.io"
+baseurl: "/personalwebsite"
 #-------------------------------
 # Build settings
 markdown: kramdown
