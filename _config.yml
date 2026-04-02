@@ -1,17 +1,20 @@
 #-------------------------------
 # General Site Settings
+
 title: Rohan Mehrotra
 url: "https://rdmehrotra.github.io"
 baseurl: "/personalwebsite"
-theme: jekyll-theme-norlin
+
+remote_theme: artemsheludko/norlin
 #-------------------------------
 # Build settings
 markdown: kramdown
 permalink: /:title
+
 plugins:
+  - jekyll-remote-theme
   - jekyll-paginate
   - jekyll-sitemap
-
 paginate: 8
 paginate_path: "/page/:num"
 
