@@ -1,19 +1,6 @@
----
-layout: default
-title: Home
----
+### HSMINWEB Supporting Documentation
 
-# Rohan Mehrotra
+This folder provides specific documentation and examples for getting the most out of `hs.httpserver.hsminweb`.
 
-Welcome to my personal website.
-
-## About Me
-Electrical Engineering student at Georgia Tech.
-
-## Projects
-- FPGA Digital Clock Timer
-- Embedded Systems (ESP32)
-- Mbed Game Development
-
-## Contact
-- GitHub: https://github.com/rdmehrotra
+* [Custom Error Functions](functions.md)
+* [Lua Template Files](templates.md)
